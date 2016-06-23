@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -3950,7 +3950,7 @@ Various fiducial points for machine vision alignment.</description>
 <part name="PP-SCK" library="SparkFun" deviceset="TEST-POINT" device="3X5" value=""/>
 <part name="PP-RST" library="SparkFun" deviceset="TEST-POINT" device="3X5" value=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
-<part name="R2" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="1k"/>
+<part name="R2" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="10k"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="TP-FTDI_VCC" library="SparkFun" deviceset="TEST-POINT" device="3X5" value=""/>
 <part name="JP3" library="SparkFun" deviceset="M01" device="SNAP-FEMALE" value="M01SNAP-FEMALE_LARGE"/>

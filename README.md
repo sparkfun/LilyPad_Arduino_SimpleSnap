@@ -1,7 +1,7 @@
 LilyPad Arduino SimpleSnap
 ========================================
 
-![LilyPad Arduino SimpleSnap](https://cdn.sparkfun.com//assets/parts/6/1/0/7/10941-00c.jpg)
+![LilyPad Arduino SimpleSnap](https://cdn.sparkfun.com//assets/parts/6/1/0/7/10941-01.jpg)
 
 [*LilyPad Arduino SimpleSnap (DEV-10941)*](https://www.sparkfun.com/products/10941)
 
